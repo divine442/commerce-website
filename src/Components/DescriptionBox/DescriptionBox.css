@@ -1,0 +1,26 @@
+.descriptionbox{
+    margin: 120px 170px;
+}
+
+.Descriptionbox-navigator{
+    display: flex;
+}
+
+.descriptionbox-navbox{
+    width: 171px;
+    height: 70px;
+    border: 1px solid #d0d0d0;
+    
+}
+
+.descriptionbox-navbox.fade{
+    background:#fbfbfb ;
+    color: #555;
+}
+
+.descriptionbox-description{
+    gap: 25px;
+    border: 1px solid #d0d0d0;
+    padding: 48px;
+    padding-bottom: 70px;
+}
