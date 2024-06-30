@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# E-commerce" 
 "# Shopping-websites" 
 "# commerce-website" 
+"# commerce-website" 
