@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import instagram_icon from '../Assets/instagram_icon.png'
-import pininterest_icon from '../Assets/pininterest_icon.png'
+// import pininterest_icon from '../Assets/pininterest_icon.png'
 import whatsapp_icon from '../Assets/whatsapp_icon.png'
 import twitter_icon from '../Assets/twitter_icon.jpg'
 
@@ -26,11 +26,11 @@ export const Footer = () => {
         <img src={instagram_icon} alt=''/>
 
         </div>
-        <div className='footer-container'>
+        {/* <div className='footer-container'>
         <img src={pininterest_icon} alt=''/>
 
-        </div>
-        <div className='footer-container'>
+        </div> */}
+        <div className='footer-container'>  
         <img src={whatsapp_icon} alt=''/>
 
         </div>
