@@ -6,8 +6,6 @@ import 'swiper/css/pagination'
 import 'swiper/css/free-mode'
 
 import {FreeMode,  Pagination} from 'swiper/modules'
-import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons'
-import { faArrowAltCircleLeft } from '@fortawesome/free-solid-svg-icons'
 
 
 
